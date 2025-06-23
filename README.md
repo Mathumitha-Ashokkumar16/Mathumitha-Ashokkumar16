@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathumitha</h1>
 <h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%7C+Intern+at+InternPe;I+💙+HTML,+CSS,+JS,+React+and+more!" />
-</p>
 
 ---
 
@@ -31,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathumitha-Ashokkumar16&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathumitha-Ashokkumar16&theme=radical" width="45%" />
+  
 </p>
 
 ---
